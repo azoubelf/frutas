@@ -1,0 +1,72 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 70%;
+    height: 400px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: #384891!important;
+}
+
+.botao-cor-especial {
+    background-color: #384891;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: #384891;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.quem_somos {
+    width: 85%;
+    margin: 0 auto;
+}
+
+iframe {
+    width: 100%;
+}
+
+footer {
+    height: 18vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+footer p {
+    font-style: italic;
+    padding: 15px;
+    font-size: .8em;
+
+}
+
+.footer_caixa {
+    margin-top: 20px;
+
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+}
+
+.footer_caixa a {
+    font-size: 1.8em;
+}
